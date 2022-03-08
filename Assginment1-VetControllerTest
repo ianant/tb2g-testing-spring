@@ -1,0 +1,7 @@
+Assginment: Write Spring UNIT tests:
+
+1:New github repo for Spring Framework Pet clinic
+2:Pure Spring framework application
+3:Write unit test for vet controller
+4:Write unit test for ClinicServiceImpl - test findPetTypes only.
+5:Use JUNIT 5 and Mockito as needed.
